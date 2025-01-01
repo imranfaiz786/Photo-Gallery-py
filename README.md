@@ -3,11 +3,11 @@
 A simple and interactive photo gallery built with Python using **Tkinter** for the GUI and **Pillow** for image processing. This app allows users to load and view images from any selected folder in a responsive, scrollable grid layout.
 
 <p align="center">
-  <img src="assets/image1.png" alt="Photo Gallery App Screenshot 1" width="40%">
+  <img src="assets/ss1.png" alt="Photo Gallery App Screenshot 1" width="40%">
 </p>
 
 <p align="center">
-  <img src="assets/image2.png" alt="Photo Gallery App Screenshot 2" width="40%">
+  <img src="assets/ss2.png" alt="Photo Gallery App Screenshot 2" width="40%">
 </p>
 
 ## Features
